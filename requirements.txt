@@ -1,0 +1,13 @@
+# 实验一：文本分类 依赖（Python 3.10）
+# 安装：pip install -r requirements.txt
+
+# ---- 核心（运行 run_experiment.py 必需）----
+numpy==1.23.5
+scikit-learn==1.5.2
+pandas==2.2.3
+matplotlib==3.7.0
+
+# ---- 可选（供 Word2Vec 特征表示 / NLP 预处理等扩展使用）----
+scipy==1.10.1
+gensim==4.3.0
+nltk==3.7

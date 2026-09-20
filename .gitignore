@@ -1,0 +1,22 @@
+# Course data and submission artifacts stay local.
+/train_data.csv
+/test_data_unlabeled.csv
+/prediction.csv
+/predictions.csv
+*.pdf
+*.html
+*.zip
+*.rar
+/report.md
+/build_report.py
+/todolist.md
+/TUNING.md
+/draft_main.py
+/audit/*
+!/audit/check_evidence.py
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.venv/
